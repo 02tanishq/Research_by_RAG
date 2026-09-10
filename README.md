@@ -255,8 +255,8 @@ python scripts/evaluate.py
 ---
 👨‍💻 Author
 
-Mohammed Hussain — CSE (AIML) @ Malnad College Of Engineering
+Tanishq Gupta @ Motilal Nehru National Institute of technology Allahabad
 
 ## 📜 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-Copyright (c) 2026 Mohammed Hussain
+Copyright (c) 2026 Tanishq Gupta 
